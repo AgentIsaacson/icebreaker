@@ -1,5 +1,17 @@
-# React/Redux/Router Starter Project
+# Mobile Application to break the ice and spark meaningful conversation.
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+> TO-DO_App
+- Create components for questions and games
+- setup mobile controls
 
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
+> TO-DO_Questions
+- pull questions from JSON file
+- decide how to order questions
+- create swipe mechanic
+
+> TO-DO_Games
+- pull games from JSON file
+- categories/facets?
+- write out game content
+
+*In Progress*
