@@ -1,21 +1,17 @@
 import React, { Component } from "react";
 import Question from "./question";
 
-import * as data from '../../static/assets/questions.json';
+import * as data from "../../static/assets/questions.json";
 
 export default class QuestionContainer extends Component {
 	render() {
-		let questions = JSON.parse(JSON.stringify(data)).Questions
-		console.log(questions.length)
-		let questionsArray = [];
-		questions.reduce((prev, current) => {
-			prev.push(current)
-		});
-		console.log(typeof(questionsArray));
+		let questions = JSON.parse(JSON.stringify(data)).Questions;
 		return (
 			<div className="question-container">
 				Questions go here
-				{questions}
+				{questions.map((data, index) => {
+					return <div className="question">{data}</div>;
+				})}
 			</div>
 		);
 	}
