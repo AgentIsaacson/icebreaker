@@ -1,40 +1,40 @@
 {
-  "Games": [
-    {
-      "Title": "Hostage",
-      "Summary": "",
-      "PlayerCount": "6-20+",
-      "Length": "20-30 Minutes",
-      "Materials": "None",
-      "Description": "Split into groups of 3-5. Groups each take a hostage from another group and have 10 minutes to take them somewhere else. Each hostage then has to call their group and describe where they are. First team that finds their hostage and gets back to the start wins",
-      "Alternate Rules": ""
-    },
-    {
-      "Title": "Fugitive",
-      "Summary": "",
-      "PlayerCount": "6-20+",
-      "Length": "30-60 Minutes",
-      "Materials": "Vehicle(s)",
-      "Description": "Set 2 locations for point A and point B (usually a 20-30 minute walking distance). Pick a few players to be Guards. All 'fugitives' have to get from A to B without being caught by the Guards. The Guards start somewhere between A and B and drive around in vehicles to try and catch the fugitives. A Guard catches a fugitive by declaring that player's location.",
-      "Alternate Rules": ""
-    },
-    {
-      "Title": "Ninja",
-      "Summary": "",
-      "PlayerCount": "3-20+",
-      "Length": "5-20 Minutes",
-      "Materials": "None",
-      "Description": "Players stand in a circle and put their hands together toward the center. Players rub their hands together and say 'Niiiiiiiiin-JA!'. On 'JA', players strike a 'ninja pose', then freeze. Players take turns in order around the circle. On your turn, you try to use your hand to hit the hand of another player. If your hand is hit by another player's hand, you're 'dead' and out of this round. If a player moves to attack you, you are allowed to move and dodge. When you are Attacking and Dodging, you may only perform a single motion, then must freeze (For example, you may jump across the circle to attack a player, but not run around the circle and attack every player). Last player 'alive' becomes the 'sensei' and starts the next round.",
-      "Alternate Rules": ""
-    },
-    {
-      "Title": "",
-      "Summary": "",
-      "PlayerCount": "",
-      "Length": "",
-      "Materials": "",
-      "Description": "",
-      "Alternate Rules": ""
-    }
-  ]
+	"Games": [
+		{
+			"Title": "Hostage",
+			"Summary": "",
+			"PlayerCount": "6-20+",
+			"Length": "20-30 Minutes",
+			"Materials": "None",
+			"Description": "Split into groups of 3-5. Groups each take a hostage from another group and have 10 minutes to take them somewhere else. Each hostage then has to call their group and describe where they are. First team that finds their hostage and gets back to the start wins",
+			"Alternate Rules": ""
+		},
+		{
+			"Title": "Fugitive",
+			"Summary": "",
+			"PlayerCount": "6-20+",
+			"Length": "30-60 Minutes",
+			"Materials": "Vehicle(s)",
+			"Description": "Set 2 locations for point A and point B (usually a 20-30 minute walking distance). Pick a few players to be Guards. All 'fugitives' have to get from A to B without being caught by the Guards. The Guards start somewhere between A and B and drive around in vehicles to try and catch the fugitives. A Guard catches a fugitive by declaring that player's location.",
+			"Alternate Rules": ""
+		},
+		{
+			"Title": "Ninja",
+			"Summary": "",
+			"PlayerCount": "3-20+",
+			"Length": "5-20 Minutes",
+			"Materials": "None",
+			"Description": "Players stand in a circle and put their hands together toward the center. Players rub their hands together and say 'Niiiiiiiiin-JA!'. On 'JA', players strike a 'ninja pose', then freeze. Players take turns in order around the circle. On your turn, you try to use your hand to hit the hand of another player. If your hand is hit by another player's hand, you're 'dead' and out of this round. If a player moves to attack you, you are allowed to move and dodge. When you are Attacking and Dodging, you may only perform a single motion, then must freeze (For example, you may jump across the circle to attack a player, but not run around the circle and attack every player). Last player 'alive' becomes the 'sensei' and starts the next round.",
+			"Alternate Rules": ""
+		},
+		{
+			"Title": "Paranoia",
+			"Summary": "",
+			"PlayerCount": "6+",
+			"Length": "5 minutes",
+			"Materials": "A Coin",
+			"Description": "",
+			"Alternate Rules": ""
+		}
+	]
 }
