@@ -1,13 +1,12 @@
 # Mobile Application to break the ice and spark meaningful conversation.
 
 > TO-DO_App
-- Create components for questions and games
-- setup mobile controls
+- Add page for games
+- Convert to Mobile
+- Release to Mobile
 
 > TO-DO_Questions
-- pull questions from JSON file
-- decide how to order questions
-- create swipe mechanic
+- Store question order data for 'spotify' randomization
 
 > TO-DO_Games
 - pull games from JSON file
@@ -15,3 +14,4 @@
 - write out game content
 
 *In Progress*
+- create swipe mechanic for cards (https://github.com/gajus/swing)

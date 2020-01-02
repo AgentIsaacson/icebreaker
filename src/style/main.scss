@@ -1,1 +1,25 @@
-@import "questionCard"
+@import "variables";
+@import "questionCard";
+@import "header";
+
+body {
+	background-color: $black;
+	color: $white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.button {
+	background-color: $blue;
+	color: $white;
+	border: none;
+	padding: 10px 15px;
+	border-radius: 5px;
+
+	&:focus {
+		box-shadow: none;
+	}
+}
