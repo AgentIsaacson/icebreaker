@@ -1,5 +1,43 @@
+.questionContainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	height: 100vh;
+}
+
 .questionCard {
-	max-width: 200px;
+	padding: 15px;
+	border: 2px solid $white;
+	border-radius: 25px;
+	background-color: $grey;
 	text-align: center;
-	border: 2px solid grey;
+	margin: 10px;
+	font-size: 1.5em;
+
+	&:hover {
+		cursor: pointer;
+	}
+
+	* {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+}
+
+.questionText {
+	padding: 15px;
+	min-height: 20vh;
+	width: 80vw;
+	max-width: 480px;
+}
+
+.questionButton {
+	margin-bottom: 5vh;
+
+	&:hover {
+		cursor: pointer;
+	}
 }
