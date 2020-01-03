@@ -15,3 +15,10 @@
 
 *In Progress*
 - create swipe mechanic for cards (https://github.com/gajus/swing)
+
+
+_Resources_
+- https://phonegap.com/getstarted/
+- https://facebook.github.io/react-native/
+- https://visualstudio.microsoft.com/xamarin/
+- https://hackernoon.com/getting-started-with-cross-platform-app-development-in-2019-dd2bf7f6161b
